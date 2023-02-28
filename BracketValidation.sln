@@ -2,6 +2,8 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BracketValidation", "BracketValidation\BracketValidation.csproj", "{6607707D-510F-426F-B4D8-C4C0CEC1BA23}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BracketValidation.Tests", "BracketValidation.Tests\BracketValidation.Tests.csproj", "{B0BB076A-EF31-4B3F-B3F9-743BF1165B19}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +14,9 @@ Global
 		{6607707D-510F-426F-B4D8-C4C0CEC1BA23}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6607707D-510F-426F-B4D8-C4C0CEC1BA23}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6607707D-510F-426F-B4D8-C4C0CEC1BA23}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B0BB076A-EF31-4B3F-B3F9-743BF1165B19}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0BB076A-EF31-4B3F-B3F9-743BF1165B19}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0BB076A-EF31-4B3F-B3F9-743BF1165B19}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0BB076A-EF31-4B3F-B3F9-743BF1165B19}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
